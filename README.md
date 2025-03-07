@@ -1,1 +1,1 @@
-# Grace
+# GraceSession timeout configuration
