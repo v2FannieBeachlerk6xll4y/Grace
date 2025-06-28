@@ -7,3 +7,4 @@ Cloud storage integration
 User permission model
 Performance audit results
 Feature testing summary
+Project delivery report
